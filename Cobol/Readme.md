@@ -20,15 +20,7 @@ El programa fue desarrollado como parte de la Interbank COBOL Academy y su prop�
 
 ## Estructura del Programa
 
-/cobol
-│
-├── Transaccion_financiera.cob
-├── README.md
-│
-└── /bin
-    │
-    ├── Transaccion_financiera.exe
-    └── data.csv
+![image](https://github.com/user-attachments/assets/cff02337-912e-4dbd-9595-0365e3e2e7d4)
 
 ### 1. **Divisiones:**
 
