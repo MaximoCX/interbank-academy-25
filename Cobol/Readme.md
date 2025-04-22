@@ -4,6 +4,8 @@
 
 Este programa COBOL procesa un archivo de texto que contiene transacciones de crédito y débito, calculando el saldo final, el monto máximo de una transacción y el conteo de transacciones de crédito y débito. El programa está diseñado para leer un archivo CSV, extraer los datos de las transacciones y generar un reporte con los resultados.
 
+![image](https://github.com/user-attachments/assets/d93cf795-2013-4512-a4bc-23c50da2873c)
+
 ## Propósito
 
 El programa fue desarrollado como parte de la Interbank COBOL Academy y su propósito es mostrar cómo trabajar con archivos secuenciales y procesar datos financieros en COBOL. Los resultados incluyen el saldo final de todas las transacciones, la transacción con el mayor monto y el número de transacciones de tipo crédito y débito.
@@ -54,3 +56,6 @@ El programa fue desarrollado como parte de la Interbank COBOL Academy y su prop�
 ### 4. **Salida:**
 
 El reporte se muestra en la consola con el siguiente formato:
+
+![image](https://github.com/user-attachments/assets/b803ee97-73d4-4463-a3be-8a7b3f9b106a)
+
