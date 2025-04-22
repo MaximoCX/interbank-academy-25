@@ -20,11 +20,15 @@ El programa fue desarrollado como parte de la Interbank COBOL Academy y su prop�
 
 ## Estructura del Programa
 
-/reporte-transacciones
+/cobol
 │
-├── reporte-transacciones.cob # Código fuente COBOL del programa
-├── data.csv # Archivo de entrada con las transacciones (debe estar en el mismo directorio)
-└── README.md # Documentación de ejecución y descripción del proyecto
+├── Transaccion_financiera.cob
+├── README.md
+│
+└── /bin
+    │
+    ├── Transaccion_financiera.exe
+    └── data.csv
 
 ### 1. **Divisiones:**
 
