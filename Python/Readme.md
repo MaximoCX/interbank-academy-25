@@ -116,6 +116,8 @@ Conteo de Transacciones: Crédito: 3 Débito: 2
 
 ```
 
+![image](https://github.com/user-attachments/assets/5a7070b2-1481-4575-b21f-d76129a0051a)
+
 ## Estructura del Proyecto
 
 El proyecto se organiza en las siguientes carpetas y archivos principales:
